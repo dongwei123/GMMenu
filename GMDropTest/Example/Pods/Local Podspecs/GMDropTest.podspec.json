@@ -1,0 +1,22 @@
+{
+  "name": "GMDropTest",
+  "version": "0.1.0",
+  "summary": "A short description of GMDropTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/dongwei/GMDropTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "dongwei": "dongwei-ds@yolo24.com"
+  },
+  "source": {
+    "git": "https://github.com/dongwei/GMDropTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "GMDropTest/Classes/**/*"
+}

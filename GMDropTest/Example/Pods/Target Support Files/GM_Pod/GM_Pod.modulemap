@@ -1,0 +1,6 @@
+framework module GM_Pod {
+  umbrella header "GM_Pod-umbrella.h"
+
+  export *
+  module * { export * }
+}

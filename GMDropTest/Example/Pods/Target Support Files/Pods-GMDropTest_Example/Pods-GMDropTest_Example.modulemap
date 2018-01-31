@@ -1,0 +1,6 @@
+framework module Pods_GMDropTest_Example {
+  umbrella header "Pods-GMDropTest_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
