@@ -30,7 +30,7 @@ TODO: Test create a new spec
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'GMDropTest/GM_Pod/Classes/**/*.{h,m}'
+  s.source_files = 'GM_Pod/Classes/**/*.{h,m}'
   
   # s.resource_bundles = {
   #   'GM_Pod' => ['GM_Pod/Assets/*.png']
