@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'GM_Pod'
-  s.version          = '0.1.2'
+  s.version          = '0.1.0'
   s.summary          = 'Test of GM_Pod.'
 
 # This description is used to generate tags and improve search results.
@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Test create a new spec
                        DESC
 
-  s.homepage         = 'https://git.coding.net'
+  s.homepage         = 'https://github.com'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'dongwei' => 'dongwei-ds@yolo24.com' }
-  s.source           = { :git => 'https://git.coding.net/dongxiao/GM_Pods.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/dongwei123/GMMenu.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
